@@ -13,7 +13,7 @@ tracks:
     name: upstream
     patches: null
     release_inc: '3'
-    release_repo_url: null
+    release_repo_url: git@github.com:revyos-ros/mocap_optitrack-release.git
     release_tag: :{version}
     ros_distro: humble
     vcs_type: git
