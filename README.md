@@ -1,3 +1,26 @@
+## mocap_optitrack (jazzy) - 1.0.1-1
+
+The packages in the `mocap_optitrack` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy mocap_optitrack --override-release-repository-push-url git@github.com:revyos-ros/mocap_optitrack-release.git` on `Mon, 23 Jun 2025 06:28:42 -0000`
+
+The `mocap_optitrack` package was released.
+
+Version of package(s) in repository `mocap_optitrack`:
+
+- upstream repository: https://github.com/ros-drivers/mocap_optitrack.git
+- release repository: https://github.com/revyos-ros/mocap_optitrack-release.git
+- rosdistro version: `1.0.1-1`
+- old version: `null`
+- new version: `1.0.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## mocap_optitrack (humble) - 1.0.0-3
 
 The packages in the `mocap_optitrack` repository were released into the `humble` distro by running `/usr/bin/bloom-release mocap_optitrack -t humble -r humble --edit-track` on `Tue, 09 Jan 2024 21:20:37 -0000`
